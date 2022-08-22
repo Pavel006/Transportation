@@ -1,0 +1,17 @@
+\\FSStudy.marstu.net\Study\Пользователи\s1201303090\Рабочий стол\RAx\RAx\obj\Debug\RAx.csprojResolveAssemblyReference.cache
+\\FSStudy.marstu.net\Study\Пользователи\s1201303090\Рабочий стол\RAx\RAx\obj\Debug\RAx.Form1.resources
+\\FSStudy.marstu.net\Study\Пользователи\s1201303090\Рабочий стол\RAx\RAx\obj\Debug\RAx.Form2.resources
+\\FSStudy.marstu.net\Study\Пользователи\s1201303090\Рабочий стол\RAx\RAx\obj\Debug\RAx.Properties.Resources.resources
+\\FSStudy.marstu.net\Study\Пользователи\s1201303090\Рабочий стол\RAx\RAx\obj\Debug\RAx.csproj.GenerateResource.Cache
+\\FSStudy.marstu.net\Study\Пользователи\s1201303090\Рабочий стол\RAx\RAx\obj\Debug\RAx.csproj.CoreCompileInputs.cache
+\\FSStudy.marstu.net\Study\Пользователи\s1201303090\Рабочий стол\RAx\RAx\bin\Debug\RAx.exe.config
+\\FSStudy.marstu.net\Study\Пользователи\s1201303090\Рабочий стол\RAx\RAx\bin\Debug\RAx.exe
+\\FSStudy.marstu.net\Study\Пользователи\s1201303090\Рабочий стол\RAx\RAx\bin\Debug\RAx.pdb
+\\FSStudy.marstu.net\Study\Пользователи\s1201303090\Рабочий стол\RAx\RAx\obj\Debug\RAx.exe
+\\FSStudy.marstu.net\Study\Пользователи\s1201303090\Рабочий стол\RAx\RAx\obj\Debug\RAx.pdb
+\\FSStudy.marstu.net\Study\Пользователи\s1201303090\Рабочий стол\RAx\RAx\obj\Debug\RAx.Form3.resources
+\\FSStudy.marstu.net\Study\Пользователи\s1201303090\Рабочий стол\RAx\RAx\obj\Debug\RAx.Form4.resources
+\\FSStudy.marstu.net\Study\Пользователи\s1201303090\Рабочий стол\RAx\RAx\obj\Debug\RAx.Form5.resources
+\\FSStudy.marstu.net\Study\Пользователи\s1201303090\Рабочий стол\RAx\RAx\obj\Debug\RAx.Form6.resources
+\\FSStudy.marstu.net\Study\Пользователи\s1201303090\Рабочий стол\RAx\RAx\obj\Debug\RAx.Form7.resources
+\\FSStudy.marstu.net\Study\Пользователи\s1201303090\Рабочий стол\RAx\RAx\obj\Debug\RAx.Form8.resources
